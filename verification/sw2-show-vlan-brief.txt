@@ -1,0 +1,12 @@
+ACCESS-SW2 - VLAN verification
+
+Command:
+show vlan brief
+
+Captured configuration:
+VLAN 30 = Finance
+VLAN 40 = Engineering
+Fa0/1 = VLAN 30
+Fa0/2 = VLAN 40
+
+Paste/replace with the final Packet Tracer output if desired.

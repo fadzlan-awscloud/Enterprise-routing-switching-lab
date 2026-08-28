@@ -1,0 +1,11 @@
+ACCESS-SW2 - trunk verification
+
+Command:
+show interfaces trunk
+
+Verified:
+Fa0/3 = trunking
+Allowed VLANs = 1-1005
+Active VLANs in management domain = 1,30,40
+
+Paste/replace with the final Packet Tracer output if desired.

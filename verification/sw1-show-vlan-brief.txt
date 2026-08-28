@@ -1,0 +1,6 @@
+ACCESS-SW1 - VLAN verification
+
+Command:
+show vlan brief
+
+Paste the actual Packet Tracer output here after verification.

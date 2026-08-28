@@ -1,0 +1,31 @@
+! ACCESS-SW2
+! VLANs and access-port configuration captured from the lab
+!
+hostname access-sw2
+
+vlan 30
+ name Finance
+ exit
+
+vlan 40
+ name Engineering
+ exit
+
+interface FastEthernet0/1
+ description Link-to-PC2-Finance
+ switchport mode access
+ switchport access vlan 30
+ exit
+
+interface FastEthernet0/2
+ description Link-to-PC3-Engineering
+ switchport mode access
+ switchport access vlan 40
+ exit
+
+interface FastEthernet0/3
+ ! Trunk toward CORE-L3
+ ! Verify/configure explicitly if required by the lab design.
+ exit
+!
+end

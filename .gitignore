@@ -1,0 +1,23 @@
+# Packet Tracer temporary files
+*.bak
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Python/cache files if used for automation later
+__pycache__/
+*.py[cod]
+
+# Secrets and local credentials
+.env
+*.key
+*.pem
+*.secret

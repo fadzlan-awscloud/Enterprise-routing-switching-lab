@@ -1,0 +1,8 @@
+.gitignore
+README.md
+configs/access-sw1-config.txt
+configs/access-sw2-config.txt
+verification/sw1-show-interfaces-trunk.txt
+verification/sw1-show-vlan-brief.txt
+verification/sw2-show-interfaces-trunk.txt
+verification/sw2-show-vlan-brief.txt
