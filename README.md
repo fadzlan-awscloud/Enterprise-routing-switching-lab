@@ -132,11 +132,12 @@ Cisco Packet Tracer
 Cisco IOS CLI
 
 ---
-## Screenshoots
-![Packet Tracer Enterprise Vlan Lab](screenshots/rslab.PNG)
-![Packet Tracer Enterprise Vlan Lab](screenshots/sw1rslab-vlan-IT-HR.PNG)
-![Packet Tracer Enterprise Vlan Lab](screenshots/sw1rslab-vlan-Fin-Eng.PNG)
-![Packet Tracer Enterprise Vlan Lab](screenshots/sw2rslab-config-interface.PNG)
+## Screenshots
+
+![Topology Overview](./rslab.PNG)
+![Access Switch 1 VLAN Configuration](./sw1rslab-vlan-IT-HR.PNG)
+![Access Switch 2 VLAN Configuration](./sw2rslab-vlan-Fin-Eng.PNG)
+![Access Switch 2 Interface Configuration](./sw2rslab-config-interface.PNG)
 
 ---
 ## Network Topology
