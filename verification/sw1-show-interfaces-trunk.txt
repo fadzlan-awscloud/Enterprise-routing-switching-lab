@@ -1,6 +1,0 @@
-ACCESS-SW1 - trunk verification
-
-Command:
-show interfaces trunk
-
-Paste the actual Packet Tracer output here after verification.
